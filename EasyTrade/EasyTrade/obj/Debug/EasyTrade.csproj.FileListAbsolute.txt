@@ -1,0 +1,10 @@
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\bin\Debug\EasyTrade.exe.config
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\bin\Debug\EasyTrade.exe
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\bin\Debug\EasyTrade.pdb
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\obj\Debug\EasyTrade.csprojAssemblyReference.cache
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\obj\Debug\EasyTrade.Form1.resources
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\obj\Debug\EasyTrade.Properties.Resources.resources
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\obj\Debug\EasyTrade.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\obj\Debug\EasyTrade.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\obj\Debug\EasyTrade.exe
+C:\Users\Kadir\source\repos\EasyTrade\EasyTrade\obj\Debug\EasyTrade.pdb
