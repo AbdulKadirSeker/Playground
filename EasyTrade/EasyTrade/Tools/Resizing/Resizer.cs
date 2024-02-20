@@ -81,31 +81,5 @@ namespace EasyTrade.Tools.Resizing
             }
         }
 
-        private void ResizePictureBoxImage(ref PictureBox pictureBox, Rectangle data)
-        {
-
-            if (pictureBox.Image != null)
-            {
-                // Save the original anchor settings
-                AnchorStyles originalAnchors = pictureBox.Anchor;
-
-                // Remove all anchors temporarily
-                pictureBox.Anchor = AnchorStyles.None;
-
-                // Set the new size and location
-                pictureBox.Size = new Size(data.Width, data.Height);
-                pictureBox.Location = new Point(data.X, data.Y);
-
-                // Set SizeMode back to StretchImage
-                pictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                // Restore the original anchor settings
-                pictureBox.Anchor = originalAnchors;
-            }
-
-        }
-
-
-
     }
 }
