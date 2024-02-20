@@ -123,7 +123,7 @@
             this.pic_Search.Location = new System.Drawing.Point(57, 33);
             this.pic_Search.Name = "pic_Search";
             this.pic_Search.Size = new System.Drawing.Size(175, 120);
-            this.pic_Search.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pic_Search.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pic_Search.TabIndex = 0;
             this.pic_Search.TabStop = false;
             // 
@@ -132,10 +132,12 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(1468, 1108);
+            this.ClientSize = new System.Drawing.Size(1766, 1108);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Resize += new System.EventHandler(this.Form1_Resize);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pic_Settings)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pic_WatchList)).EndInit();
