@@ -18,3 +18,7 @@ C:\Users\Kadir\OneDrive\Skrivebord\GitHub_Reps\Playground\EasyTrade\EasyTrade\ob
 C:\Users\Kadir\OneDrive\Skrivebord\GitHub_Reps\Playground\EasyTrade\EasyTrade\obj\Debug\EasyTrade.csproj.CoreCompileInputs.cache
 C:\Users\Kadir\OneDrive\Skrivebord\GitHub_Reps\Playground\EasyTrade\EasyTrade\obj\Debug\EasyTrade.exe
 C:\Users\Kadir\OneDrive\Skrivebord\GitHub_Reps\Playground\EasyTrade\EasyTrade\obj\Debug\EasyTrade.pdb
+C:\Users\Kadir\OneDrive\Skrivebord\GitHub_Reps\Playground\EasyTrade\EasyTrade\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Kadir\OneDrive\Skrivebord\GitHub_Reps\Playground\EasyTrade\EasyTrade\bin\Debug\System.Drawing.Common.dll
+C:\Users\Kadir\OneDrive\Skrivebord\GitHub_Reps\Playground\EasyTrade\EasyTrade\bin\Debug\System.Drawing.Common.xml
+C:\Users\Kadir\OneDrive\Skrivebord\GitHub_Reps\Playground\EasyTrade\EasyTrade\obj\Debug\EasyTrade.csproj.CopyComplete
